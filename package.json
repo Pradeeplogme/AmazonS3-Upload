@@ -1,0 +1,16 @@
+{
+  "name": "amazonS3FileUpload",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "2.5.8",
+    "knox": "0.3.0",
+    "chai": "1.2.0",
+    "mime": "1.2.7",
+    "supertest": "0.2.0",
+    "should": "0.2.0"
+  },
+  "engines": {
+    "node": "0.6.x",
+    "npm":  "1.0.x"
+  }
+}
