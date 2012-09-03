@@ -13,7 +13,7 @@ This framework also will show you testing with [Mocha](http://visionmedia.github
 
 ## Setting AmazonS3 environment variables
 You should change the word _EXAMPLE_ to something more appropriate to your
-project. To make them permanent add them to the end of your _~/.bash\_profile_ file
+project. **Make sure to change them in lib/config/index.js too.** To make them permanent add them to the end of your _~/.bash\_profile_ file
 
     export EXAMPLE_AWSS3_KEY=23jklwerwkl3423lk  
     export EXAMPLE_AWSS3_SECRET=sdfkjsldfjsdfds  
