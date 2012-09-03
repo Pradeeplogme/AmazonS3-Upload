@@ -59,4 +59,5 @@ and what middleware/controllers I'm going to be employing with each request
 **lib/utils** : Here I keep general utility functions that can be used by any
 middleware, controller, model, etc.  
 
-
+Shane A. Stillwell 
+Node.js developer
